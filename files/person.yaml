@@ -1,0 +1,11 @@
+person:
+  name: Mark Twain
+  age: 30
+  address:
+    street: 123 Elm Street
+    city: Tracey
+    state: CA
+  hobbies:
+    - swimming
+    - hiking
+    - coding
